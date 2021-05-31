@@ -1,0 +1,11 @@
+.inputContainer{
+    padding: 5em;
+    text-align: center;
+    background: #f8f8f8;
+    
+}
+.outputContainer{
+    padding: 5em;
+    margin: 2em;
+    text-align: center;
+}
